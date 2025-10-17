@@ -1,0 +1,1 @@
+web: node dist/index.js --transport=http --port=3000
