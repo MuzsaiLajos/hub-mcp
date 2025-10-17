@@ -1,1 +1,1 @@
-web: node dist/index.js --transport=http --port=3000
+web: node dist/index.js --transport=http --port=$PORT
